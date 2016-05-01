@@ -1,5 +1,5 @@
 # H01_largeodd.py    SOLO, Nick O'Dea, nicholas_odea@umail.ucsb.edu
-# Homework 1, problem 5, CS20, Spring 2016
+# Homework 1, Problem 5, CS20, Spring 2016
 
 
 def largeodds():
